@@ -1,4 +1,7 @@
 # AskAfrica - Local AI Q&A Application
+<img width="1056" height="904" alt="image" src="https://github.com/user-attachments/assets/686fff1f-14c3-4524-a62c-4dea11493a64" />
+
+<img width="900" height="845" alt="image" src="https://github.com/user-attachments/assets/e165104e-eddc-4d32-bcc8-33ee3bbf3d90" />
 
 A full-stack AI Q&A application powered by local LLM via Ollama. AskAfrica provides a simple, beautiful interface for interacting with your local AI model.
 
