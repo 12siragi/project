@@ -1,0 +1,8 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+httpx==0.25.2
+python-dotenv==1.0.0
+llama-index==0.10.0
+llama-index-readers-file==0.1.0
+pypdf==4.0.0
